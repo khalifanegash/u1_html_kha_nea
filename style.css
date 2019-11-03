@@ -1,0 +1,74 @@
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 20%;
+  background-image: url('pictures/falafel-lepinja.jpg');
+  color: white;    
+}
+.map{
+  position: relative;
+  display: inline;
+  margin-right: 0;
+}
+.footer{
+display: inline;
+margin: 10px;
+padding: 10px;
+}
+*{ 
+ margin: 20px 20px;
+    overflow: auto;
+} 
+body{
+  width: 1393px;
+  height: 800px;
+ background-image: url('pictures/home_pizza_slider_1.png');
+ background-repeat: no-repeat; 
+ background-position:center;
+ background-color: antiquewhite;
+}
+h1{ 
+  text-align: center;
+  width: 100%;
+  height: 10%;
+}
+h3{
+  padding: 50px 50px;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold; 
+}
+section{
+  position: relative;
+  border: 10px;
+  width: 30vw;
+  height: 60vh;
+  align-items: center; 
+}
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+  width: 30%;
+  height: 50%;
+  color: black;
+}
+.container{
+  float: left;
+}
+.a{
+  margin: 20px;
+}
+.twitter{
+  width: 150px;
+  height: 100px;
+  margin-left: 20%;
+  position: relative;
+}
+.time{ 
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px; 
+  width: 100%;
+  height: 100%;
+  color: black;
+}
